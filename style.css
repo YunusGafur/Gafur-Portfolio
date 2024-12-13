@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 4px 6px rgb(0, 0, 0, 0.1);
+    border-radius: 5px;
+    background: #f9f9f9;
+}
+
+a:hover{
+    text-decoration: rgb(0,128,255);
+}
+
+a {
+    text-decoration: none;
+    color: #333333;
+}
+
+li:hover {
+    background-color: rgb(200, 255, 0);
+    font-size: 18px;
+  }
